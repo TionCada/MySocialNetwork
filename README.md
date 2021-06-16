@@ -4,7 +4,7 @@
 
 ## About the project
 
-This is an educational project based on "React JS - way of samurai 1.0" course, which is free and can be found at: https://www.youtube.com/watch?v=gb7gMluAeao&list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8. This project is an analogue of modern social networks, such as Facebook, but with pretty basic functionality, which though can be developped in the future. 
+This is an educational project based on "React JS - way of samurai 1.0" course, which is free and can be found at: https://www.youtube.com/watch?v=gb7gMluAeao&list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8. This project is an analogue of modern social networks, such as Facebook, but with pretty basic functionality, which though can be developped in the future. Website is hosted at https://logo-social-network.web.app, so feel free to check it out.
 
 Current project version includes implementation of: 
 
