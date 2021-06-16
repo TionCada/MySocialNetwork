@@ -1,0 +1,10 @@
+.preloader {
+    padding-left: 48%;
+    min-height: 100vh;
+    margin-top: 10%;
+}
+
+.preloader img {
+    margin-top: 25%;
+    margin-bottom: 25%;
+}

@@ -1,0 +1,11 @@
+.container {
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100vh;
+}
+
+.image {
+    display: table-cell;
+    vertical-align: middle;
+}

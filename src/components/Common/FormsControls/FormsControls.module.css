@@ -1,0 +1,30 @@
+.formControl.error input,
+.formControl.error textarea
+{
+    border: solid red 2px;
+}
+
+.text {
+    display: inline-block;
+    background-color: aqua;
+}
+
+.field {
+    display: inline-block;
+    max-width: fit-content;
+}
+
+.formControl.error span
+{
+    color: red;
+    display: flex;
+    margin-left: 18px;
+    margin-top: 5px;
+    justify-content: center;
+}
+
+.formSummaryError {
+    border: red 2px solid;
+    padding: 5px;
+    color: red
+}
